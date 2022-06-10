@@ -1,7 +1,7 @@
 #  Atividade NodeJS - CRUD
 
 ## Autor: Rodrigo de Andrade 
-* Desenvolvimento Web II - Professor Cláudio Etelvino de Lima
+* Desenvolvimento Web II - Professor Claudio Etelvino de Lima
 * 2° semestre - Desenvolvimento de Software Multiplataforma - Fatec São José dos Campos - Jessen Vidal
 
 Desenvolvimento de uma aplicação em NodeJS fazendo um CRUD e usando as tabelas de Clientes e Pedidos
