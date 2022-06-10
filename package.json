@@ -1,0 +1,14 @@
+{
+  "name": "listaiv-nodejs",
+  "version": "1.0.0",
+  "description": "Elabore uma aplicação em NodeJS baseado nas páginas 81 até 98.Fazer o CRUD usando as tabelas clientes e Pedidos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo de Andrade Paula",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  }
+}
