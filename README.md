@@ -4,7 +4,7 @@
 * Desenvolvimento Web II - Professor Cláudio Etelvino de Lima
 * 2° semestre - Desenvolvimento de Software Multiplataforma - Fatec São José dos Campos - Jessen Vidal
 
-Desenvolvimento de uma aplicação em NodeJS fazendo um CRUD e usando as tabelas de 
+Desenvolvimento de uma aplicação em NodeJS fazendo um CRUD e usando as tabelas de Clientes e Pedidos
 
 # Objetivo
 Aplicação de um modelo de dados, criando as tabelas cliente e pedidos, e ligando o banco de dados no CRUD,juntando com o NodeJS:
