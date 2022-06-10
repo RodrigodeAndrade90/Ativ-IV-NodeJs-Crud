@@ -1,7 +1,6 @@
 #  Atividade NodeJS - CRUD
 
 ## Autor: Rodrigo de Andrade 
-* RA: 1461392121018
 * Desenvolvimento Web II - Professor Cláudio Etelvino de Lima
 * 2° semestre - Desenvolvimento de Software Multiplataforma - Fatec São José dos Campos - Jessen Vidal
 
